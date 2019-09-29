@@ -1,0 +1,27 @@
+{
+  "name": "room-reservation-backend",
+  "version": "0.0.1",
+  "author": "VRZ78",
+  "description": "General API for room reservation",
+  "homepage": "https://github.com/VRZ78/room-reservation-backend",
+  "dependencies": {
+    "apn": "^2.2.0",
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "class-to-sql": "git+https://github.com/VRZ78/class-to-sql.git",
+    "cors": "^2.8.4",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.2",
+    "express-cors": "^0.0.3",
+    "express-session": "^1.15.6",
+    "moment": "^2.20.1",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "mysql": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "repository": "https://github.com/VRZ78/room-reservation-backend.git",
+  "license": "MIT"
+}
